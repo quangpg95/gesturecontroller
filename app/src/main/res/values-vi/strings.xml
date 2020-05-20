@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Quang cac title pref-->
+    <string name="height_width_title">Height and Width</string>
+    <string name="pref_height_title">Height</string>
+    <string name="pref_width_title">Width</string>
+    <string name="pref_hide_home_indicator_title">Hide home indicator</string>
+    <string name="pref_hide_right_indicator_title">Hide right indicator</string>
+    <string name="pref_hide_left_indicator_title">Hide left indicator</string>
+    <string name="pref_transparent_indicators_title">Transparent indicators</string>
+    <string name="pref_appearance_title">Appearance</string>
+    <string name="pref_size_title">Size</string>
+    <string name="pref_gesture_and_action_title">Gesture and action</string>
+    <!--Quang cac category pref-->
+    <string name="pref_color_and_visibility_category">Color and visibility</string>
+    <!--Quang cac summary pref -->
+    <string name="pref_color_summary">Color and opacity of the indicators</string>
+    <string name="pref_hide_home_indicator_summary">Hide home indicator permanently</string>
+    <string name="pref_hide_right_indicator_summary">Hide right indicator permanently</string>
+    <string name="pref_hide_left_indicator_summary">Hide left indicator permanently</string>
+    <string name="pref_transparent_indicators_summary">Transparent indicators permanently</string>
+    <string name="pref_basic_gesture_title">Basic gesture</string>
+    <!--Quang danh sach cac action-->
+    <string name="action_gesture_nothing">Không đặt</string>
+    <string name="action_gesture_home">Home</string>
+    <string name="action_gesture_back">Back</string>
+    <string name="action_gesture_recent">Open recent app</string>
+    <string name="action_gesture_notification">Open notification</string>
+    <string name="action_gesture_quick_settings">Open quick settings</string>
+    <string name="action_gesture_take_screen_shot">Take screenshot</string>
+    <string name="action_gesture_split_screen">Split screen</string>
+    <string name="action_gesture_screen_off">Screen off</string>
+    <string name="action_gesture_flash_light">Turn on flashlight</string>
+    <string name="action_control_brightness">Control brightness</string>
+    <string name="action_control_sound">Control sound</string>
+    <string name="pref_left_swipe_title">Left swipe</string>
+    <string name="pref_gesture_action_summary">Click to configure an action</string>
+    <string name="pref_right_swipe_title">Right swipe</string>
+    <string name="pref_right_swipe_key" translatable="false">right_swipe</string>
+    <string name="pref_swipe_up_title">Swipe up</string>
+    <string name="pref_hold_gesture_category">Hold gestures</string>
+    <string name="pref_swipe_up_and_hold_title">Swipe up and hold</string>
+    <string name="pref_left_swipe_and_hold">Left swipe and hold</string>
+    <string name="pref_right_swipe_and_hold_title">right swipe and hold</string>
+    <string name="pref_click_gesture_title">Click gestures</string>
+    <string name="pref_home_indicator_title">Home indicator</string>
+    <string name="pref_hold_home_indicator_title">Hold home indicator</string>
+    <string name="pref_left_indicator_title">Left indicator</string>
+    <string name="pref_right_indicator_title">Right indicator</string>
+    <string name="pref_hold_right_indicator_title">Hold right indicator</string>
+    <string name="pref_hold_left_indicator_title">Hold left indicator</string>
+    <string name="pref_double_click_right_indicator_title">Double click right indicator</string>
+    <string name="pref_double_click_left_indicator_title">Double click left indicator</string>
+    <string name="pref_double_click_home_indicator_title">Double click home indicator</string>
+</resources>

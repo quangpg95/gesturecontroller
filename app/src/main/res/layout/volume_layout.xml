@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<abak.tr.com.boxedverticalseekbar.BoxedVertical xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/boxed_vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:backgroundColor="@color/color_background"
+    app:defaultValueSeekbar="140"
+    app:imageEnabled="false"
+    app:max="15"
+    app:progressColor="@color/color_progress"
+    app:step="1"
+    app:touchDisabled="true" />

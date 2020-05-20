@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:icon="@drawable/ic_color_lens_black_24dp"
+>
+
+    <PreferenceCategory
+        android:title="@string/pref_color_and_visibility_category">
+        <SwitchPreference
+            android:icon="@drawable/ic_visibility_off_black_24dp"
+            android:key="@string/pref_left_indicator_title"
+            android:summary="@string/pref_left_indicator_title"
+            android:title="@string/pref_left_indicator_title"
+        />
+        <com.example.thinh.gesturecontroller.ui.prefs.custom_pref.ColorPreference
+            android:defaultValue="@color/colorPrimaryAlternate"
+            android:icon="@drawable/ic_color_lens_black_24dp"
+            android:key="@string/pref_color_key"
+            android:summary="Color and opacity of the indicators"
+            android:title="Color and opacity"
+            app:colorChoices="@array/default_color_choice_values"
+        />
+    </PreferenceCategory>
+</PreferenceScreen>

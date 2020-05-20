@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--quang style custom pref color pref-->
+    <declare-styleable name="ColorPreferenceCompat">
+        <attr name="colorChoices" />
+        <attr name="numColumns" />
+    </declare-styleable>
+</resources>
